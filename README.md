@@ -1,2 +1,4 @@
 # awesome-time-series-domain-adaptation
-A collection of top conference papers that are about applying domain adaptation technique in time series task.
+This repository is for a collection of articles on time series domain adaptation. If new papers or new codes are released, welcome to pull a request and I will update it. :)
+
+[Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)(ICML2022, node code release)
